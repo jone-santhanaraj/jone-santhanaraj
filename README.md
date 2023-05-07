@@ -3,12 +3,12 @@
 I'm @jone-santhanaraj, a programmer and a web developer based in Chennai, India. Welcome to my GitHub profile.
 
 ## About Me
--- 🔭 I'm currently working on a Hotel Management System called SimpliHotel.
--- 🌱 I'm currently learning ReactJS, Node.JS and MongoDB.
--- 👯‍♂️ A member of Team Operation D.
--- 💭 Ask me about Cars and Computers.
--- 📫 Reach me at: jonesanthanaraj@gmail.com
--- 😄 Pronouns: He/Him.
+- 🔭 I'm currently working on a Hotel Management System called SimpliHotel.
+- 🌱 I'm currently learning ReactJS, Node.JS and MongoDB.
+- 👯‍♂️ A member of Team Operation D.
+- 💭 Ask me about Cars and Computers.
+- 📫 Reach me at: jonesanthanaraj@gmail.com
+- 😄 Pronouns: He/Him.
 
 ## GitHub Stats
 [![jone-santhanaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jone-santhanaraj&show_icons=true&theme=radical)](https://github.com/jone-santhanaraj/github-readme-stats)
@@ -20,9 +20,9 @@ I'm @jone-santhanaraj, a programmer and a web developer based in Chennai, India.
 [jonesanthanaraj.me](https://jonesanthanaraj.me/)
 
 ## Connect with Me
--- 📷 [Instagram](https://instagram.com/jone_santhanaraj)
--- 🐦 [Twitter](https://twitter.com/jonesanthanaraj)
--- 🟦 [LinkedIn](https://linkedin.com/in/jonesanthanaraj)
+- 📷 [Instagram](https://instagram.com/jone_santhanaraj)
+- 🐦 [Twitter](https://twitter.com/jonesanthanaraj)
+- 🟦 [LinkedIn](https://linkedin.com/in/jonesanthanaraj)
 
 Feel free to use this as a template for your own Github profile README, and customize it to make it unique to you!
 <!---
