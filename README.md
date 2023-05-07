@@ -20,9 +20,9 @@ I'm @jone-santhanaraj, a programmer and a web developer based in Chennai, India.
 [jonesanthanaraj.me](https://jonesanthanaraj.me/)
 
 ## Connect with Me
-- 📷 [Instagram](https://instagram.com/jone_santhanaraj)
-- 🐦 [Twitter](https://twitter.com/jonesanthanaraj)
-- 🟦 [LinkedIn](https://linkedin.com/in/jonesanthanaraj)
+- 📷 Instagram - [@jone_santhanaraj](https://instagram.com/jone_santhanaraj)
+- 🐦 Twitter - [@JoneSanthanaraj](https://twitter.com/jonesanthanaraj)
+- 🟦 LinkedIn - [Jone Santhanaraj](https://linkedin.com/in/jonesanthanaraj)
 
 Feel free to use this as a template for your own Github profile README, and customize it to make it unique to you!
 <!---
