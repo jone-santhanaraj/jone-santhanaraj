@@ -1,6 +1,6 @@
 # Hello There! 👋🏼
 
-I'm @jone-santhanaraj, a programmer and a web developer based in Chennai, India. Welcome to my GitHub profile.
+I'm [@jone-santhanaraj](https://github.com/jone-santhanaraj), a Programmer and a Web Developer based in Chennai, India. Welcome to my GitHub profile.
 
 ## About Me
 - 🔭 I'm currently working on a Hotel Management System called SimpliHotel.
