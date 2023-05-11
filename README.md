@@ -11,10 +11,10 @@ I'm [@jone-santhanaraj](https://github.com/jone-santhanaraj), a Programmer and a
 - 😄 Pronouns: He/Him.
 
 ## GitHub Stats
-[![jone-santhanaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jone-santhanaraj&show_icons=true&theme=radical)](https://github.com/jone-santhanaraj/github-readme-stats)
+[![jone-santhanaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jone-santhanaraj&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jone-santhanaraj&layout=compact&theme=radical)](https://github.com/jone-santhanarj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jone-santhanaraj&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Portfolio
 [jonesanthanaraj.me](https://jonesanthanaraj.me/)
