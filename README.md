@@ -3,9 +3,9 @@
 I'm [@jone-santhanaraj](https://github.com/jone-santhanaraj), a Programmer and a Web Developer based in Chennai, India. Welcome to my GitHub profile.
 
 ## About Me
-- 🔭 I'm currently working on a Hotel Management System called SimpliHotel.
-- 🌱 I'm currently learning ReactJS, Node.JS and MongoDB.
-- 👯‍♂️ A member of Team Operation D.
+- 🔭 I'm currently working on a Fuel Station Management System called Quantifuel.
+- 🌱 I'm currently learning Flutter, Express.JS and MongoDB.
+- 👯‍♂️ A member of CodeVII Collective.
 - 💭 Ask me about Cars and Computers.
 - 📫 Reach me at: jonesanthanaraj@gmail.com
 - 😄 Pronouns: He/Him.
